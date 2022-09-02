@@ -170,7 +170,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. This 
 
 <!-- Contributor -->
 ## 🤩 Contributor
-
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Alierenkayhan">
+            <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="Alierenkayhan"/>
+            <br />
+            <sub><b>Ali Eren</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
 
 <!-- CONTACT -->
 ## ✍️ Contact
