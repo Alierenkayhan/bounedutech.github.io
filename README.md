@@ -170,7 +170,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. This 
 
 <!-- Contributor -->
 ## 🤩 Contributor
-
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 <!-- CONTACT -->
 ## ✍️ Contact
