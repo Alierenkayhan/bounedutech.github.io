@@ -188,4 +188,4 @@ Project Link: [https://github.com/Alierenkayhan/bounedutech.github.io](https://g
 <!-- ACKNOWLEDGMENTS -->
 ## ✍️ Acknowledgments
 
-* @Alierenkayhan
+* [@Alierenkayhan](https://github.com/Alierenkayhan) = Metaverse and design, banner, website.
