@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. This 
 <!-- CONTACT -->
 ## ✍️ Contact
 
-If you have any feedback, please contact me at ali_erenbatman@hotmail.com. Mostly I prefer linkedIn => linkedin.com/in/alierenkayhan/
+If you have any feedback, please contact me at ali_erenbatman@hotmail.com. Mostly I prefer linkedIn => https://www.linkedin.com/in/alierenkayhan/
 
 Project Link: [https://github.com/Alierenkayhan/bounedutech.github.io](https://github.com/Alierenkayhan/bounedutech.github.io)
 
