@@ -67,9 +67,11 @@
         <li>Installation</li>
       </ul>
     </li>
+    <li>Metaverse</li>
     <li>Usage</li>
     <li>Screenshots</li>
     <li>Contributing</li>
+    <li>Contributor/li>
     <li>License</li>
     <li>Contact</li>
      <li>Resources</li>
@@ -165,15 +167,16 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information. This website and metaverse are developed by Ali Eren Kayhan. 
 
+<!-- Contributor -->
+## 🤩 Contributor
+
+
 <!-- CONTACT -->
 ## ✍️ Contact
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com. Mostly I prefer linkedIn => linkedin.com/in/alierenkayhan/
 
 Project Link: [https://github.com/Alierenkayhan/bounedutech.github.io](https://github.com/Alierenkayhan/bounedutech.github.io)
-
-<!-- Contributor -->
-## 🤩 Contributor
 
 
 <!-- Resources -->
