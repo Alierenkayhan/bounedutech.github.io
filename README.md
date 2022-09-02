@@ -127,7 +127,7 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
 
 <!-- Metaverse -->
 ## Metaverse
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/atlye)
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-metaverse)
 
 <!-- USAGE EXAMPLES -->
 ## 💡 Usage
