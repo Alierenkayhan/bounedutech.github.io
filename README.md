@@ -138,11 +138,12 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
 
 <!-- Screenshots -->
 ## 📷 Screenshots
-  1-Screenshots of website
+  1-Screenshots of Metaverse
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss1.jpg" alt="guessingnumbers" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="screenshots/guessingnumbersss/guessingnumbersss2.jpg" alt="guessingnumbers" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
