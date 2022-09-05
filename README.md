@@ -102,7 +102,7 @@
 
 - [ ] Adding new Blogs and Projects
 
-See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alierenkayhan/bounedutechsimulationandwebsite.git/issues) for a full list of proposed features (and known issues).
 
 
 <!-- GETTING STARTED -->
@@ -119,7 +119,7 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
 1. To Get Started, Fork this repository to your GitHub account:
 2. Clone the repo from your account using:
    ```sh
-   git clone https://github.com/Alierenkayhan/bounedutech.github.io.git
+   git clone https://github.com/Alierenkayhan/bounedutechsimulationandwebsite.git
    ```
 3. Open in editor
 
@@ -132,7 +132,7 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
 
 After cloning the project, you can open it in Visual Studio Code.
 
-See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alierenkayhan/bounedutechsimulationandwebsite.git/issues) for a full list of proposed features (and known issues).
 
 <!-- Screenshots -->
 ## 📷 Screenshots
