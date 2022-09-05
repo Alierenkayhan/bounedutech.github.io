@@ -102,7 +102,7 @@
 
 - [ ] Adding new Blogs and Projects
 
-See the [open issues](https://github.com/Alierenkayhan/bounedutechsimulationandwebsite.git/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alierenkayhan/bounedutechsimulationandwebsite/issues) for a full list of proposed features (and known issues).
 
 
 <!-- GETTING STARTED -->
