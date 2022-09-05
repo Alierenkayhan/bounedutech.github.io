@@ -125,7 +125,7 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
 
 <!-- simulation -->
 ## Simulation
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-metaverse)
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-simulation)
 
 <!-- USAGE EXAMPLES -->
 ## 💡 Usage
@@ -139,9 +139,9 @@ See the [open issues](https://github.com/Alierenkayhan/bounedutech.github.io/iss
   1-Screenshots of simulation
   <table> 
     <tr>
-        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechsimulationsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20simulation/bounedutechss1.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20simulation/bounedutechss2.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/bounedutech.github.io/blob/main/images/images%20simulation/bounedutechss3.jpg?raw=true" alt="bounedutechsimulationsimulation" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
